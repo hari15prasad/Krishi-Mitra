@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Krishi Mitra - Indian Farmer Assistant",
+  "description": "A comprehensive AI-powered assistant for Indian farmers providing crop disease detection, mandi prices, government schemes, and a multi-lingual voice assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
